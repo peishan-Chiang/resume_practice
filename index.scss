@@ -41,7 +41,7 @@ header{
     .textbox{
         
          h2{
-        text-align: center;
+             text-align: center;
             }
             p{
                 position:relative;
@@ -59,6 +59,7 @@ header{
     display: flex;
     justify-content: space-between;
     position: relative;
+
     h2{
         position: relative;
         Top:3px;
@@ -66,9 +67,7 @@ header{
 
     }
     p{
-        position: absolute;
-        left: 150px;
-        Top:14px;
+   
     }
 
 
@@ -78,6 +77,7 @@ header{
 
 
    .bottomblock{
+    
     border-top:1px solid black;
     padding-bottom: 5px;
 

@@ -48,11 +48,6 @@ header .textbox p {
   Top: 3px;
   left: 30px;
 }
-.area2 .upperblock p {
-  position: absolute;
-  left: 150px;
-  Top: 14px;
-}
 .area2 .bottomblock {
   border-top: 1px solid black;
   padding-bottom: 5px;
