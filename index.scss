@@ -39,6 +39,7 @@ header{
         position:relative;
     }
     .textbox{
+        color: #ffffff;
         
          h2{
              text-align: center;
@@ -57,7 +58,7 @@ header{
    
    .upperblock{
     display: flex;
-    justify-content: space-between;
+   
     position: relative;
 
     h2{
@@ -67,8 +68,11 @@ header{
 
     }
     p{
-   
+        position: relative;
+        Top:15px;
+        left: 40px;
     }
+  
 
 
 
@@ -111,7 +115,7 @@ header{
      }
      p{
          position: absolute;
-         left: 150px;
+         left: 90px;
          Top:14px;
      }
  
@@ -139,7 +143,7 @@ header{
 
 .area4 {
     background-color:$primary-color ;
-    color: #000000;
+    color: #ffffff;
 
      .upperblock{
         display: flex;

@@ -25,6 +25,9 @@ header img {
   border-radius: 50%;
   position: relative;
 }
+header .textbox {
+  color: #ffffff;
+}
 header .textbox h2 {
   text-align: center;
 }
@@ -40,13 +43,17 @@ header .textbox p {
 }
 .area2 .upperblock {
   display: flex;
-  justify-content: space-between;
   position: relative;
 }
 .area2 .upperblock h2 {
   position: relative;
   Top: 3px;
   left: 30px;
+}
+.area2 .upperblock p {
+  position: relative;
+  Top: 15px;
+  left: 40px;
 }
 .area2 .bottomblock {
   border-top: 1px solid black;
@@ -76,7 +83,7 @@ header .textbox p {
 }
 .area3 .upperblock p {
   position: absolute;
-  left: 150px;
+  left: 90px;
   Top: 14px;
 }
 .area3 .bottomblock {
@@ -91,7 +98,7 @@ header .textbox p {
 
 .area4 {
   background-color: #124a62;
-  color: #000000;
+  color: #ffffff;
 }
 .area4 .upperblock {
   display: flex;
