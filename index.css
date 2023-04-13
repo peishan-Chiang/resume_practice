@@ -1,0 +1,171 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 30px;
+}
+
+header {
+  background-color: #124a62;
+}
+header img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgb(110, 168, 236);
+  background-color: #124a62;
+  margin: 0 auto;
+  border-radius: 50%;
+  position: relative;
+}
+header .textbox h2 {
+  text-align: center;
+}
+header .textbox p {
+  position: relative;
+  top: -20px;
+  left: 30%;
+}
+
+.area2 {
+  background-color: #ffffff;
+  color: #010101;
+}
+.area2 .upperblock {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.area2 .upperblock h2 {
+  position: relative;
+  Top: 3px;
+  left: 30px;
+}
+.area2 .upperblock p {
+  position: absolute;
+  left: 150px;
+  Top: 14px;
+}
+.area2 .bottomblock {
+  border-top: 1px solid black;
+  padding-bottom: 5px;
+}
+.area2 .bottomblock p {
+  position: relative;
+  top: -5px;
+  left: 30px;
+}
+
+.area3 {
+  background-color: #ffffff;
+  color: #010101;
+  border-top: 1px solid rgb(255, 255, 255);
+  padding-bottom: 8px;
+}
+.area3 .upperblock {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.area3 .upperblock h2 {
+  position: relative;
+  Top: 3px;
+  left: 30px;
+}
+.area3 .upperblock p {
+  position: absolute;
+  left: 150px;
+  Top: 14px;
+}
+.area3 .bottomblock {
+  border-top: 1px solid black;
+  padding-bottom: 5px;
+}
+.area3 .bottomblock p {
+  position: relative;
+  top: -5px;
+  left: 30px;
+}
+
+.area4 {
+  background-color: #124a62;
+  color: #000000;
+}
+.area4 .upperblock {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.area4 .upperblock h2 {
+  position: relative;
+  Top: 3px;
+  left: 30px;
+}
+.area4 .upperblock p {
+  text-align: center;
+  position: relative;
+  left: 100px;
+  Top: 14px;
+}
+.area4 .textblock {
+  width: 80%;
+  border-top: 1px solid rgb(231, 226, 226);
+  padding-bottom: 5px;
+  position: relative;
+  left: 100px;
+}
+.area4 .bottomblock p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -5px;
+  left: 30px;
+}
+
+.area5 {
+  background-color: #ffffff;
+  color: #222121;
+  border-top: 1px solid rgb(0, 0, 0);
+  padding-bottom: 8px;
+}
+.area5 .upperblock {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.area5 p {
+  position: absolute;
+  left: 100px;
+  Top: 14px;
+}
+
+.midblock {
+  position: relative;
+}
+.midblock h2 {
+  position: relative;
+  Top: 3px;
+  left: 30px;
+}
+.midblock p {
+  position: relative;
+  left: 100px;
+  Top: 14px;
+}
+
+.bottomblock p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: -5px;
+  left: 30px;
+}/*# sourceMappingURL=index.css.map */
